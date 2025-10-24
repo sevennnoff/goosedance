@@ -2,7 +2,7 @@ from aiogram import Router
 from aiogram.types import Message, InlineQueryResultCachedVideo, InlineQuery
 from aiogram.filters import CommandStart, CommandObject
 
-VIDEO_FILE_ID = "BAACAgIAAxkBAAMGaPvfM7Xc9ENsf28qnhSBu6nCHOwAAqOSAAIl3eFL2xbZ_IDydF02BA"
+VIDEO_FILE_ID = "BAACAgIAAxkBAAMRaPwMHPBDzw4QzMt0L4_uokC3f9sAAsGTAAIl3eFLh4LwKTxiak82BA"
 
 
 router = Router()
